@@ -1,4 +1,4 @@
-import {Nation} from "./nation";
+import {Nation} from './nation';
 
 export class Team {
     public id: string;
